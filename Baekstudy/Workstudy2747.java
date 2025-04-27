@@ -2,7 +2,7 @@ package Baekstudy;
 
 import java.util.Scanner;
 
-public class workstudy2747 {
+public class Workstudy2747 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int input = sc.nextInt();

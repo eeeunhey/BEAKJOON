@@ -1,6 +1,6 @@
 package Baekstudy.workbook10172;
 
-public class workbook10172 {
+public class Workbook10172 {
     public static void main(String[] args) {
         System.out.println("|\\_/|");
         System.out.println("|q p|   /}");
